@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmindninjax%2Fhow-to-become-an-effective-programmer-5a00&psig=AOvVaw2oXN45NdDuyoa4KIh7ezv-&ust=1683275135229000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiS79ae2_4CFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmindninjax%2Fhow-to-become-an-effective-programmer-5a00&psig=AOvVaw2oXN45NdDuyoa4KIh7ezv-&ust=1683275135229000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiS79ae2_4CFQAAAAAdAAAAABAJ.gif">
 
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">I'm am a student of Software Engineering at Manisa Celal Bayar University</h3>
