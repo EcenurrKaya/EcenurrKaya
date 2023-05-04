@@ -3,7 +3,7 @@
 
 - 👨‍💻 I am currently working on mobile. I'm learning <b>Java/Kotlin</b>
 
-- 👯 I have worked on <b>HTML/CSS/BootStrap</b> before.
+- 👯 I have worked on <b>HTML/CSS/BootStrap</b> before. You can see my projects.
 
 - 🌱 I've been working with <b>AR</b> lately.
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ecenurr-kaya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecenur kaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ecenurr-kaya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ecenur Kaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
