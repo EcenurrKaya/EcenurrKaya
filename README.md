@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">I'm am a student of Software Engineering at Manisa Celal Bayar University</h3>
 
-- 👨‍💻 I am currently working on mobile.
+- 👨‍💻 I am currently working on mobile. I'm learning <b>Java/Kotlin</b>
 
-- 👯 I have worked on HTML/CSS/BootStrap before.
+- 👯 I have worked on <b>HTML/CSS/BootStrap</b> before.
 
-- 🌱 I've been working with AR lately.
+- 🌱 I've been working with <b>AR</b> lately.
 
 - 🔭 I'm interested in web/mobile design.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ecenurr-kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecenur kaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ecenurr-kaya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecenur kaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
