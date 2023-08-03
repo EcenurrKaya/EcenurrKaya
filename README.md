@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">I'm am a student of Software Engineering at Manisa Celal Bayar University</h3>
 
-- 👨‍💻 I am currently working on mobile. I'm learning <b>Java/Kotlin</b>
+- 👨‍💻 I am currently working on web development. I'm learning <b>React.JS</b>
 
-- 👯 I have worked on <b>HTML/CSS/BootStrap</b> before. You can see my projects.
+- 👯 I have worked on <b>Java/Kotlin</b> before. You can see my projects.
 
 - 🌱 I've been working with <b>AR</b> lately.
 
