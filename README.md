@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">I'm am a student of Software Engineering at Manisa Celal Bayar University</h3>
 
-- 👨‍💻 I am currently working on web development. I'm learning <b>React Native</b>
+- 👨‍💻 I am currently working on web development. I'm learning <b>ReactJS</b>
 
-- 👯 I have worked on <b>ReactJS</b> before. You can see my projects.
+- 👯 You can see my projects.
 
-- 🌱 I've been working with <b>AR</b> lately.
+<!-- - 🌱 I've been working with <b>E</b> lately. -->
 
 
 <h3 align="left">Connect with me:</h3>
