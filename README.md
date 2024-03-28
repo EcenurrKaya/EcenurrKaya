@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">I'm am a student of Software Engineering at Manisa Celal Bayar University</h3>
 
-- 👨‍💻 I am currently working on web development. I'm learning <b>ReactJS</b>
+- 👨‍💻 I am currently working on web development. I'm learning <b>ReactJS</b> and <b>NextJS</b>
 
 - 👯 You can see my projects.
   
